@@ -112,6 +112,7 @@ class _ProfilePageState extends State<ProfilePage> {
                                       followings: profileUser.followings),
                                 ),
                               );
+                              profileCubit.getProfilebyUserId(widget.userId);
                               setState(() {});
                             },
                             postCount: postCount ?? 0,
