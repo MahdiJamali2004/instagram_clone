@@ -1,16 +1,47 @@
-# instagram_clone
+# Task Management <img src="screenShots/tasky.png" alt="TaskManagement" style="vertical-align: baseline; width: 30px; height: 30px;"/>
 
-A new Flutter project.
+Take full control of your tasks with our simple task management app. Whether adding, tracking progress, or checking smaller issues, this app makes your productivity easy and efficient.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Key features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+📋 Task management: Add and track your tasks.
+
+🔄 Track progress: Stay motivated by marking off small tasks.
+
+📝 Categorized notes: Organize your notes by categories like study or work.
+## ScreenShots 
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="screenShots/1.jpg" width="80%" />
+    </td>
+    <td align="center" width="20%">
+      <img src="screenShots/2.jpg" width="80%" />
+    </td>
+    <td align="center" width="20%">
+      <img src="screenShots/3.jpg" width="80%" />
+    </td>
+      <td align="center" width="20%">
+      <img src="screenShots/4.jpg" width="80%" />
+    </td>
+      <td align="center" width="20%">
+      <img src="screenShots/5.jpg" width="80%" />
+    </td>
+    
+  </tr>
+</table>
+
+ ## Contributing
+
+  Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+  ## License
+
+  This project is licensed under the MIT License.
+
+
